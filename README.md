@@ -1,16 +1,13 @@
-# flash_chat
+# Chatting_app
 
-A new Flutter project.
+A simple chatting app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a just chatting app created in order to have an alternatives while using other popular messanging an chatting platoroms like Telegram, Viber or even SMS. For now this app has a limited functionality, however soon it could be developed further, and add a new functions like ability of sending an images, files and audio messages.
 
-A few resources to get you started if this is your first Flutter project:
+- [What can it do?] - it can register and sing-in the users using authentication check function by emails. So it's connection is also secured by http protocols
+- [Also] - you can just send the messages to the very important people of your life and no one else, or just create an analogy of a group chat.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app was created during completing a course of Angela Yu's Flutter bootcamp 
