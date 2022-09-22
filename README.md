@@ -9,5 +9,16 @@ This project is a just chatting app created in order to have an alternatives whi
 - [What can it do?] - it can register and sing-in the users using authentication check function by emails. So it's connection is also secured by http protocols
 - [Also] - you can just send the messages to the very important people of your life and no one else, or just create an analogy of a group chat, by using Firebase x Firestore
 
+<table> 
+			<tr> 
+				<td><img src="images/img1.jpg" alt="Image 1"></td>
+				<td><img src="images/img2.jpg" alt="Image 2"></td>
+			</tr> 
+			<tr> 
+				<td><img src="images/img3.jpg" alt="Image 3"></td>
+                <td><img src="images/img4.jpg" alt="Image 4"></td>
+			</tr> 
+</table> 
 
-The app was created during completing a course of Angela Yu's Flutter bootcamp 
+
+
